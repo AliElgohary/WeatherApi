@@ -12,12 +12,12 @@
 
 ## Installation
 
-    create a new Create a .env file as the on in the .env.example file
+    create a new Create a .env file as the one in the .env.example file
 
     1. Install dependencies:
     npm install
     2. run the application
-    npm run dev
+    npm start
     3. for development mode
     npm run dev
     4. to run tests
@@ -28,7 +28,7 @@
 1. To Get Current Weather by City.
 
    - Endpoint: [http://localhost:3000/api/weather/current/:city]
-   -city: The name of the city.
+   - city: The name of the city.
 
 2. To Get 5-Day Weather Forecast:
 
